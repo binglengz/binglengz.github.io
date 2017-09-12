@@ -150,10 +150,15 @@ form button img{
 	height: 100%;
 	float: left;
 }
-.info img{
+.info a{
 	width: .37rem;
-	float: right;
-	margin:.3rem;  
+	height: .37rem;
+	display: block;
+	margin: .3rem auto;
+}
+.info img{
+	width: 100%;
+
 }
 #LBT{
 	margin-top: .02REM;
